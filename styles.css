@@ -1,5 +1,6 @@
 body{
     background-color: blanchedalmond;
+    font-family: monospace, "Times New Roman", sans-serif;
 }
 
 .header{
@@ -10,7 +11,7 @@ body{
 
 li{
     text-align: center;
-    background-color: #805080;
+    background-color: #dae7ab;
     color: rgb(0, 182, 200, .7);
     font-size: larger;
 }
