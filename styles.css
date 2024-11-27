@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.header{
+    text-align: center;
+    background-color: hsl(177, 70%, 41%);
+    color: rgb(216, 182, 137);
+}
+
+li{
+    text-align: center;
+    background-color: #805080;
+    color: rgb(0, 182, 200, .7);
+    font-size: larger;
+}
