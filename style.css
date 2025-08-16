@@ -1,7 +1,50 @@
+*{
+    box-sizing: border-box;
+    font-family: "Courier New", "Times New Roman";
+}
+
 h1{
     background-color: hsla(30, 75%, 80%, 0.7);
     text-align: center;
     padding: 16px 8px;
     border: 3px double rgba(50,200,150,0.5);
     margin: 16px 0px;
+}
+
+h2,
+h3 {
+    text-align: center;
+    background-color: hsla(50, 20%, 50%, 0.7);
+    border: 5px solid blanchedalmond;
+    padding: 12px;
+    margin: 24px 0px;
+}
+
+ul,
+ol{
+    text-align: center;
+    background-color: rgba(100, 100, 50, 0.3);
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 32px;
+}
+
+img{
+    display: block;
+    margin: 32px auto;
+}
+
+li{
+    margin: 12px 0px;
+}
+
+.home{
+    background-color: hsla(50, 20%, 50%, 0.5);
+    border: 5px solid hsla(30, 75%, 80%, 0.7);
+    padding: 24px;
+    display: inline-block;
+    font-size: 24px;
 }
